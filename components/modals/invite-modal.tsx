@@ -68,7 +68,7 @@ export const InviteModal = () => {
                     className="uppercase text-xs font-bold text-zinc-500
                     dark:text-secondary/70"
                     >
-                        Link per l'invito al server
+                        Link per l invito al server
                     </Label>
                     <div className="flex items-center mt-2 gap-x-2">
                         <Input

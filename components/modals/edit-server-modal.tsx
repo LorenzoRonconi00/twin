@@ -92,7 +92,7 @@ export const EditServerModal = () => {
                         Crea o modifica il tuo server
                     </DialogTitle>
                     <DialogDescription className="text-center text-zinc-500">
-                        Inserisci un nome e un'immagine. Puoi sempre modificarli
+                        Inserisci un nome e un immagine. Puoi sempre modificarli
                         successivamente.
                     </DialogDescription>
                 </DialogHeader>
